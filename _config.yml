@@ -1,0 +1,15 @@
+# Site settings
+title: "Software Development: literacy & libations"
+description: "Understanding software development, geospatial/spatial topics & good beverage pairings"
+baseurl: "" 
+url: "http://aaronjcaldwell.github.io/" 
+tagline: "Understanding software development, geospatial/spatial topics & good beverage pairings"
+
+# Build settings
+markdown: kramdown
+kramdown:
+    auto_ids: false
+gems: [jekyll-paginate]
+paginate: 4
+paginate_path: '/blog/page:num/'
+permalink: /blog/:title
