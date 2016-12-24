@@ -1,9 +1,9 @@
 # Site settings
-title: "Software Development: Literacy & Libations"
-description: "Understanding software development, geospatial/spatial topics & good beverage pairings"
-baseurl: "" 
-url: "http://aaronjcaldwell.github.io/" 
-tagline: "Understanding software development, geospatial/spatial topics & good beverage pairings"
+title: "Base Two World"
+description: "Software development, geospatial topics & free pegasus rides"
+baseurl: ""
+url: "http://aaronjcaldwell.github.io/"
+tagline: "Software development, geospatial topics & free pegasus rides"
 
 # Build settings
 markdown: kramdown

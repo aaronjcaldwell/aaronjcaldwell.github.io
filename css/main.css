@@ -278,7 +278,7 @@ th {
 }
  /* end normalize styles
  */
-/* -------------------------------------------------- 
+/* --------------------------------------------------
   Global settings
 -----------------------------------------------------*/
 body {
@@ -299,7 +299,7 @@ p {
 	margin: 0 0 1em 0;
 }
 a {
-	color: #42659A;
+	color: #004d00;
 	line-height: inherit;
 }
 a:hover {
@@ -341,7 +341,7 @@ img, object, embed {
 	clear: both;
 }
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
   header styles
 -----------------------------------------------------*/
 .page-header {
@@ -362,7 +362,7 @@ header p {
 	color: #666;
 	text-transform: uppercase;
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    top navigation styles
 -----------------------------------------------------*/
 nav ul, nav li {
@@ -378,7 +378,7 @@ nav li a {
 	letter-spacing: 0.1em;
 }
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    article styles
 -----------------------------------------------------*/
 .posts, .archive {
@@ -393,13 +393,13 @@ article h2 {
 	font-size: 2em;
 	font-weight: 400;
 	line-height:1.2;
-	color: #42659A;
+	color: #004d00;
 	margin-bottom:0.2em;
 }
 article h3 {
 	font-weight: 400;
 	font-size: 1.4em;
-	color: #42659A;
+	color: #004d00;
 	margin-bottom: 0;
 }
 article h2 a {
@@ -431,7 +431,7 @@ pre {
 	color: white;
 	padding: .5em 1em;
 	margin-bottom: 1em;
-	border-left: 1em solid #42659A;
+	border-left: 1em solid #004d00;
 	background: #666;
 	white-space: pre-wrap;
 	white-space: -moz-pre-wrap;
@@ -473,7 +473,7 @@ dt {
 	font-family: 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
 	font-size: 1.2em;
 	font-weight: 400;
-	color: #42659A;
+	color: #004d00;
 	margin-bottom:0;
 }
 dd {
@@ -502,7 +502,7 @@ dd {
 .next:after {
 	content: '\00a0\00bb';
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    archive styles
 -----------------------------------------------------*/
 .archive ul {
@@ -531,7 +531,7 @@ dd {
 .tag-cloud a {
 	text-decoration: none;
 	font-size: 0.8em;
-	background: #42659A;
+	background: #004d00;
 	color: white;
 	padding: 0.125em 0.5em;
 	border-radius: 0.25em;
@@ -550,7 +550,7 @@ h3:target + .taglist .return {
 .return a:before {
 	content: '\25b2\00a0';
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    sidebar styles
 -----------------------------------------------------*/
 aside {
@@ -596,8 +596,8 @@ aside li {
 .twitter {
 	background: url(../images/twitter.svg) no-repeat;
 }
-	
-/* -------------------------------------------------- 
+
+/* --------------------------------------------------
    main footer styles
 -----------------------------------------------------*/
 .page-footer {
@@ -620,7 +620,7 @@ aside li {
 .top-link:before {
 	content: '\25b2\00a0';
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    Smaller screen styles
 -----------------------------------------------------*/
 @media only screen and (max-width: 950px) {
@@ -628,7 +628,7 @@ aside li {
 .right, .left {
 	float: none;
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    top navigation styles
 -----------------------------------------------------*/
 nav {
@@ -639,7 +639,7 @@ nav ul {
 	display: none;
 }
 nav li {
-	background: #42659A;
+	background: #004d00;
 	margin-bottom: .2em;
 }
 nav li:hover {
@@ -664,7 +664,7 @@ nav li a:hover {
 /*toggle check styles*/
 .toggle-label {
 	display: block;
-	background: #42659A;
+	background: #004d00;
 	font: 0.8em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
 	text-align: center;
 	letter-spacing: 0.1em;
@@ -701,11 +701,11 @@ dd{
 	margin-bottom: 1em;
 }
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    Larger screen styles
 -----------------------------------------------------*/
 @media only screen and (min-width: 951px) {
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    layout styles
 -----------------------------------------------------*/
 html {
@@ -732,7 +732,7 @@ aside {
 	padding-left: 2.5%;
 }
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    header styles
 -----------------------------------------------------*/
 header h1 {
@@ -744,7 +744,7 @@ header p {
 	color: #666;
 	text-transform: uppercase;
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    top navigation styles
 -----------------------------------------------------*/
 nav {
@@ -766,7 +766,7 @@ nav li {
 nav li a {
 	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
 	color: white;
-	background: #42659A;
+	background: #004d00;
 	margin-right: 0.5em;
 	padding: .25em 1em;
 	display: inline-block;
@@ -777,7 +777,7 @@ nav li a:hover {
 	color: white;
 	background: #333;
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    article styles
 -----------------------------------------------------*/
 article p {
@@ -787,7 +787,7 @@ article p {
 a.more {
 	margin: 0.5em 0;
 }
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    main footer styles
 -----------------------------------------------------*/
 .legal {
